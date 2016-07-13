@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://trylqyi.github.io
+title: non/sense
+tagline: verum ipsum factum
+description: My awesome new site
+paginate: 5
